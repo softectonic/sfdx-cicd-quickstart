@@ -1,0 +1,14 @@
+{
+  "packageDirectories": [
+    {
+      "path": "./my-feature-package",
+      "package": "my-feature-package",
+      "versionName": "CICD Quick Start",
+      "versionNumber": "1.0.0.NEXT",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "53.0"
+}
